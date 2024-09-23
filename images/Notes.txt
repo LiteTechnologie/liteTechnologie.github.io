@@ -1,0 +1,12 @@
+/************************Toutes les informations sur les différents outils de l'entreprise************************/
+
+
+COULEURS: 
+/******rouge********/
+#d9211b 
+
+/********noir*******/
+#000000
+
+/******** bleu ******/
+#1791c8
